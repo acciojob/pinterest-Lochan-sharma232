@@ -4,6 +4,10 @@
 align-items:center;	
 }
 .img{
-	width:
+	width:50vw;
+	height:50vw;
+	object-fit:cover;
 	}
+.button{
+	
 }
