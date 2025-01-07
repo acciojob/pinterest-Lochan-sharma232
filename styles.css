@@ -11,7 +11,7 @@ main{
 .hero img{
 	width:100%;
 	height:200px;
-	object-fit:cover;
+	object-fill:cover;
 	}
 .hero button{
 padding: 10px 20px;
